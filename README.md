@@ -98,5 +98,5 @@ This script is intended for educational purposes only. Do not use it for unautho
 
 ### Author  
 
-- **Your Name:** Bharat Garsondiya
+- **Name:** Bharat Garsondiya
 - **Email:** bgarsond@uoguelph.ca
